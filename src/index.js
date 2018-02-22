@@ -29,6 +29,6 @@ module.exports = function getZerosCount(number, base) {
       i++;
   }
 
-  return arr;
+  return result;
 
 }
